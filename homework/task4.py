@@ -13,7 +13,7 @@
 
 s = int(input('Введите общее количество журавликов:'))
 
-if s%2 == 0:
+if s%6 == 0:
     katia = (s /3)*2
     petia = katia/4
     serezha = katia/4
